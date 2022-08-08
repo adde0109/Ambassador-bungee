@@ -1,0 +1,5 @@
+name: Ambassador-bungee
+main: org.adde0109.ambassador.bungee.AmbassadorPlugin
+version: 0.1.0
+author: adde0109
+depends: [Protocolize]
